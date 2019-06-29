@@ -5,10 +5,14 @@ I have used the google universal encoder for sentence embedding and then used a 
 
 
 I have used google colab as my running enviornment.
- Software requirement:
+Software requirement:
  1)Python 3
  2)Tensorflow
  3)tensorflow_hub
  4)plotly
  5)pandas
+ 
+ 
+ 
+ data for training : https://docs.google.com/file/d/0B04GJPshIjmPRnZManQwWEdTZjg/edit
 
